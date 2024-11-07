@@ -1,0 +1,62 @@
+{
+  "Rohit": 
+    {
+      "name": "Rohit Sharma",
+      "followers": 45000,
+      "following": 97,
+      "profile":"https://yt3.googleusercontent.com/sgJr0fM0ykLUtpJmkbAblEZtMR9A-RanK2sGXiKeEG3iU8u39I0B5GZCpVpV9DEDQ69hvV_TBA=s900-c-k-c0x00ffffff-no-rj",
+      "posts": [
+        { "image": "https://wallpaperaccess.com/full/1869048.jpg", "like": 545, "comments": 84 },
+        { "image": "https://th.bing.com/th/id/OIP.D9uVtUQ8Ecvb6iwTbXbtRAHaJ3?w=512&h=682&rs=1&pid=ImgDetMain", "like": 524, "comments": 125 },
+        { "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/rohit-sharma-011825397-16x9_1.jpg?VersionId=GfCKRtUhB67S7Pg1eqA_Jqhzcf4XMArd", "like": 430, "comments": 96 },
+        { "image": "https://statico.sportskeeda.com/editor/2024/06/d4e6c-17197671890023-1920.jpg", "like": 2264, "comments": 208 }
+      ]
+    },
+    "Virat" : {
+      "name": "Virat Kohli",
+      "followers": 97000,
+      "following": 208,
+      "profile":"https://i.pinimg.com/736x/3c/0a/ef/3c0aef493502b38fe50b00c2b40bede5.jpg",
+      "posts": [
+        { "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/348000/348086.jpg", "like": 1200, "comments": 150 },
+        { "image": "https://i.pinimg.com/originals/70/74/44/707444abf1c9f0551a991709062307f5.jpg", "like": 1845, "comments": 960 },
+        { "image": "https://images.news18.com/ibnlive/uploads/2024/06/rohit-sharma-and-virat-kohli-pose-together-with-the-trophy-2024-06-b583ddefe7ab0204a44bcd2f1cb61442.jpg?impolicy=website&width=640&height=480", "like": 4570, "comments": 3180 },
+        { "image": "https://th.bing.com/th/id/OIP.FTqJ_U66NBATpEjKnmas7gAAAA?rs=1&pid=ImgDetMain", "like": 950, "comments": 85 }
+      ]
+    },
+     "Jethiya" :{
+      "name": "Jethalal Gada",
+      "followers": 22800,
+      "following": 114,
+      "profile": "https://images.jagran.com/naidunia/ndnimg/28042020/28_04_2020-jketaa.jpg",
+      "posts": [
+        { "image": "https://images.inuth.com/2017/08/Jethalal-Taarak-Mehta-Ka-Ooltah-Chashmah-1.jpg", "like": 610, "comments": 42 },
+        { "image": "https://i.ytimg.com/vi/r_P_Sm8pFBk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGA8gZShhMA8=&rs=AOn4CLCZUvvWCOy-2p323RlILWX8ZZNi1w", "like": 978, "comments": 156 },
+        { "image": "https://th.bing.com/th/id/OIP.mWuWVwN1JWja7XcsAPbOJQHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain", "like": 815, "comments": 72 },
+        { "image": "https://origin-staticv2.sonyliv.com/cms/6120558170001/thumbnail/6120558170001_thumb.jpg", "like": 1085, "comments": 457 }
+      ]
+    },
+    "Akshay" : {
+      "name": "Akshay",
+      "followers": 27000,
+      "following": 150,
+      "profile": "https://www.wallpaperbetter.com/wallpaper/977/879/649/akshay-kumar-comedy-movies--wallpaper.jpg",
+      "posts": [
+        { "image": "https://pbs.twimg.com/media/FhSbPQiX0AEQf3Z.jpg:large", "like": 520, "comments": 40 },
+        { "image": "https://www.kewlquiz.com/wp-content/uploads/2020/09/images-5.jpg", "like": 430, "comments": 38 },
+        { "image": "https://th.bing.com/th/id/R.0f09eed3b0170c36889853f79935fd25?rik=fBi7kpiUilZkAw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-exsinwJA0ko%2fUKnSKkh_ioI%2fAAAAAAAABO8%2fbPBaOv2TsGM%2fs1600%2fFunny%2bAkshay%2bKumar_1.jpg&ehk=p4ivMAGpYSZh0HwZh0jBmn%2bxfuCa6%2fBVKyKgbu0c%2f90%3d&risl=&pid=ImgRaw&r=0", "like": 520, "comments": 40 },
+        { "image": "https://mews.in/wp-content/uploads/2021/08/images-14-3-300x300.jpeg", "like": 520, "comments": 40 }
+      ]
+    },
+    "Youtubers" : {
+      "name": "Top Tech Teachers",
+      "followers": 30000,
+      "following": 220,
+      "posts": [
+        { "image": "https://imageurl10.com", "like": 850, "comments": 90 },
+        { "image": "https://imageurl11.com", "like": 940, "comments": 95 },
+        { "image": "https://imageurl12.com", "like": 1020, "comments": 100 }
+      ]
+    }
+  
+}
